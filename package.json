@@ -1,0 +1,14 @@
+{
+  "name": "UX Assignment",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Shubhangi.Asgola",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "compression": "^1.6.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "underscore": "^1.8.3"
+  }
+}

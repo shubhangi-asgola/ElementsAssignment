@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "textbox",
+    "count" : 0
+  },
+  {
+    "name" : "checkbox",
+    "count" : 0
+  },
+  {
+    "name" : "radiobutton",
+    "count" : 0
+  },
+  {
+    "name" : "textarea",
+    "count" : 0
+  },
+  {
+    "name" : "button",
+    "count" : 0
+  }
+]
