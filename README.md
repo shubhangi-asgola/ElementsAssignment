@@ -6,5 +6,3 @@ Then open the terminal and go into the desired directory and run the following c
 
 - node server.js
 - After this, open the browser and set the URL localhost:8000
-
-No need to do npm install as node_modules folder is already present.
